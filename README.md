@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is the first project I am doing while following The Odin Project. By the end of this project, I should have demonstrated an understanding of creating and copying a GitHub repo to my local machine (macOS), as well as creating a basic webpage for recipes with HTML elements. 
