@@ -1,3 +1,17 @@
 body {
     font-family: sans-serif;
 }
+
+div {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.odin-recipes {
+    background-color: aquamarine;
+}
+
+.lasagna {
+    background-color: red;
+}
